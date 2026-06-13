@@ -419,3 +419,5 @@ finally:
 - exec sp_rename 'dbo.empleado','dbo.empleados'
 -                 antiguo      ,   nuevo
 
+
+<img width="860" height="265" alt="normalizacion_tablas-5e026576-0099-4dff-b7aa-87cae77458d4" src="https://github.com/user-attachments/assets/6a5a3cff-3afc-4c12-9f53-a5f435d3fbc4" />
